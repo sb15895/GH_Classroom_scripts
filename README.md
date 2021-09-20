@@ -12,7 +12,3 @@ This file should be able to run on the deadline and complete following tasks:
 - Obtain GitHub API token from your settings page
 - Download csv file from [Github Classroom page](https://classroom.github.com/classrooms/87207786-edinburgh-teaching-inf2c-cs) 
 - Input both of this in [GraphQL_script.py](GraphQL_script.py) and run program
-
-  ```
-  ./GraphQL_script.py --token ghp_cgABCDEFGHIJKLMNOPQRSTUVWXYZ cw0-grades-123456789.csv
-  ```
